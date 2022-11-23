@@ -1,4 +1,6 @@
 # A-B Test for Informed Business Decisions
+### [Detailed Project](https://nbviewer.org/github/davidefilosa/A-B-Test-for-Informed-Business-Decisions/blob/master/AB_testing.ipynb)
+
 
 | Project Description | Libraries Used | Source of Data |
 | :---------------------- | :---------------------- | :---------------------- | 
